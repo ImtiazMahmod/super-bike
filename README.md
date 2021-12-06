@@ -1,4 +1,4 @@
-# [Super Bike](https://superbike-bd.web.app/)
+# [Super Bike](https://super-bike.netlify.app/)
 
 ## About Super Bike
 
@@ -11,4 +11,4 @@
 - `Various collection` of model.
 - `Interested` to all customer.
 
-### [Live Site](https://superbike-bd.web.app/)
+### [Live Site](https://super-bike.netlify.app/)
