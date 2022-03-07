@@ -58,7 +58,7 @@ const SingleBike = ({ bike }) => {
         </Box>
         <Divider />
         <Typography sx={{ pt: 2 }} variant="body2" color="text.secondary">
-          {bike?.desc.slice(0, 100)}...
+          {bike?.desc?.slice(0, 100)}...
         </Typography>
       </CardContent>
 

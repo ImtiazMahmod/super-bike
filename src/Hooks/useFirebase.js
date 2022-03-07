@@ -71,6 +71,7 @@ const useFirebase = () => {
       })
       .finally(() => setIsLoading(false));
   };
+
   ///logout
   const logout = () => {
     setIsLoading(true);
